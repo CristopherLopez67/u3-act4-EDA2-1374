@@ -1,0 +1,7 @@
+﻿id_semilla,cultivo,variedad,proveedor,precio_kg,germinacion_porcentaje,ciclo_dias,stock_kg,tratamiento,lote
+301,Maiz,Hibrido A,Semillas MX,150,95,120,500,Fungicida,L23-01
+302,Trigo,Trigo duro,AgroGlobal,80,90,150,300,Ninguno,L23-02
+303,Frijol,Negro Jamapa,Semillas MX,120,85,90,200,Insecticida,L23-03
+304,Soya,Transgenica B,BioTech,200,98,110,150,Herbicida,L23-04
+305,Sorgo,Sorgo forrajero,AgroGlobal,60,88,100,400,Ninguno,L23-05
+306,Avena,Avena blanca,Semillas MX,70,92,130,250,Fungicida,L23-06
